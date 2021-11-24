@@ -6,8 +6,8 @@
 Maruful Islam</h1>
 <h3 align="center">Front-end Developer | Self-Taught</h3>
 <p align="center">
-  <a href = "mailto: marufulislamsami2007@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"</a>
-  <a href = "https://discord.gg/ynVRM5yaGc"><img align="center" src="https://simpleicons.org/icons/discord.svg" height="30" width="40"</a>   
+  <a href = "mailto: marufulislamsami2007@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"></a>
+  <a href = "https://discord.gg/ynVRM5yaGc"><img align="center" src="https://simpleicons.org/icons/discord.svg" height="30" width="40"></a>   
 </p>
 </p>
 
