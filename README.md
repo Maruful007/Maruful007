@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Maruful007/Profile/master/thompson.png" height="200"/>
+  <img src="https://raw.githubusercontent.com/Maruful007/Maruful007/master/thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Maruful007/Profile/master/hi.gif" width="30px">, I'm 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Maruful007/Maruful007/master/hi.gif" width="30px">, I'm 
 Maruful Islam</h1>
 <h3 align="center">Front-end Developer | Self-Taught</h3>
 <p align="center">
@@ -33,9 +33,9 @@ Maruful Islam</h1>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
-  <code> <img height="50" src="https://github.com/Maruful007/Profile/blob/main/html.svg"> </code>
-  <code> <img height="50" src="https://github.com/Maruful007/Profile/blob/main/bootstrap.svg"> </code>
-  <code> <img height="50" src="https://github.com/Maruful007/Profile/blob/main/php.svg"> </code>
+  <code> <img height="50" src="https://github.com/Maruful007/Maruful007/blob/main/html.svg"> </code>
+  <code> <img height="50" src="https://github.com/Maruful007/Maruful007/blob/main/bootstrap.svg"> </code>
+  <code> <img height="50" src="https://github.com/Maruful007/Maruful007/blob/main/php.svg"> </code>
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
@@ -47,4 +47,4 @@ Maruful Islam</h1>
 
 -----
 
-Last Edited on: 24/11/2021
+Last Edited on: 25/11/2021
