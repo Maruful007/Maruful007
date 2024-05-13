@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Maruful007/Maruful007/master/thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Maruful007/Maruful007/master/hi.gif" width="30px">, I'm Mr. Hacker</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Maruful007/Maruful007/master/hi.gif" width="30px">, I'm Maruful Islam</h1>
 <h3 align="center">Front-end Developer | Self-Taught</h3>
 <p align="center">
   <a href = "mailto: marufulislamsami2007@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"></a>
